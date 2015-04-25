@@ -1,0 +1,5 @@
+How it works:
+- User enters text, hits GO
+- Send the input to backend
+  ...Alex's python stuff...
+- Send emoji codes to JS, use library, show icons

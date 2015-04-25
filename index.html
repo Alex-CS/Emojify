@@ -1,0 +1,37 @@
+
+<html>
+	
+	<head>
+		<link rel="stylesheet" href="emojify.css">
+		<title> Emojify!</title>
+	</head>
+
+	<body>
+		<div id="header">
+			<h1 id="title">/u1F604</h1>
+			
+		</div>
+
+		<div id="input-output">
+			<form id="input-form">
+				<textarea rows="4" cols="50"></textarea>
+				<br>
+				<input type="submit" value="Submit">
+			</form>
+
+			<textarea rows="4" cols="50"></textarea>
+		</div>
+
+	</body>
+	<link href="emoji.css" rel="stylesheet" type="text/css" />
+	<script src="emoji.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	var rawTitle = document.getElementById("title");
+	var emojiTitle = emoji.replace_unified(rawTitle.textContent);
+	emoji.text_mode = true;
+	emoji.img_path = "https://github.com/github/gemoji/tree/master/images/emoji/unicode";
+	rawTitle.textContent = emojiTitle;
+	emoji.include_title = true;
+	</script>
+</html>
+ 

@@ -1,5 +1,5 @@
 {
-    "\xF0\x9F\x98\x81":
+    "\xF0\x9F\x98\x81": //tense grin
     {
         "smile": 20,
         "nervous": 80,
@@ -16,7 +16,7 @@
         "monday": 70
     },
 
-    "\xF0\x9F\x98\x82":
+    "\xF0\x9F\x98\x82": //laughing tears
     {
         "laughing": 60,
         "hysterical": 70,
@@ -30,7 +30,7 @@
         "dyin": 60
     },
 
-    "\xF0\x9F\x98\x83":
+    "\xF0\x9F\x98\x83": //smile
     {
         "smile": 90,
         "bright": 60,
@@ -50,7 +50,7 @@
         "oooooh": 40
     },
 
-    "\xF0\x9F\x98\x84":
+    "\xF0\x9F\x98\x84": //smile eyes
     {
         "smile": 100,
         "nice": 80,
@@ -67,7 +67,7 @@
         "liked": 80
     },
 
-    "\xF0\x9F\x98\x85":
+    "\xF0\x9F\x98\x85": //oops smile
     {
         "oops": 90,
         "mb": 90,
@@ -80,7 +80,7 @@
         "silly": 70
     },
 
-    "\xF0\x9F\x98\x86":
+    "\xF0\x9F\x98\x86": //XD
     {
         "lol": 80,
         "lmao": 60,
@@ -93,7 +93,7 @@
         "idk": 70
     },
 
-    "\xF0\x9F\x98\x89":
+    "\xF0\x9F\x98\x89": //wink
     {
         "hey": 60,
         "heya": 80,
@@ -117,7 +117,7 @@
         "pfft": 40
     },
 
-    "\xF0\x9F\x98\x8A":
+    "\xF0\x9F\x98\x8A": //blushing smile
     {
         "mm": 40,
         "mmm": 50,
@@ -136,7 +136,7 @@
         "yup": 40
     },
 
-    "\xF0\x9F\x98\x8B":
+    "\xF0\x9F\x98\x8B": //tongue smile
     {
         "silly": 90,
         "lol": 60,
@@ -155,7 +155,7 @@
         "idk": 50
     },
 
-    "\xF0\x9F\x98\x8C":
+    "\xF0\x9F\x98\x8C": //peaceful smile
     {
         "relieved": 100,
         "phew": 80,
@@ -174,7 +174,7 @@
         "sleeping": 30
     },
 
-    "\xF0\x9F\x98\x8D":
+    "\xF0\x9F\x98\x8D": //heart eyes
     {
         "love": 80,
         "yes": 70,
@@ -186,7 +186,7 @@
         "smile": 20
     },
 
-    "\xF0\x9F\x98\x8F":
+    "\xF0\x9F\x98\x8F": //smirk
     {
         "hmm": 60,
         "ok": 50,
@@ -201,7 +201,7 @@
         "pfft": 70
     },
 
-    "\xF0\x9F\x98\x92":
+    "\xF0\x9F\x98\x92": //sideways glance
     {
         "eh": 60,
         "ehh": 70,
@@ -217,7 +217,7 @@
         "monday": 60
     },
 
-    "\xF0\x9F\x98\x93":
+    "\xF0\x9F\x98\x93": //depressed
     {
         "eh": 50,
         "ehh": 50,
@@ -231,7 +231,7 @@
         "sorry": 70
     },
 
-    "\xF0\x9F\x98\x96":
+    "\xF0\x9F\x98\x96": //grossed out
     {
         "bleh": 80,
         "ew": 80,
@@ -254,7 +254,7 @@
         "hungover": 60
     },
 
-    "\xF0\x9F\x98\x98":
+    "\xF0\x9F\x98\x98": //blow kiss
     {
         "kiss": 100,
         "xo": 80,
@@ -268,7 +268,7 @@
         "you": 50
     },
 
-    "\xF0\x9F\x98\x9C":
+    "\xF0\x9F\x98\x9C": //tongue wink
     {
         "lol": 60,
         "me": 2a0,
@@ -283,7 +283,7 @@
         "idk": 60
     },
 
-    "\xF0\x9F\x98\xA1":
+    "\xF0\x9F\x98\xA1": //angry
     {
         "mad": 80,
         "angry": 70,
@@ -299,7 +299,7 @@
         "ughh": 40
     },
 
-    "\xF0\x9F\x98\xA4":
+    "\xF0\x9F\x98\xA4": //fiesty
     {
         "mad": 40,
         "angry": 40,
@@ -308,7 +308,7 @@
         "jeez": 80
     },
 
-    "\xF0\x9F\x98\xA5":
+    "\xF0\x9F\x98\xA5": //cry
     {
         "sad": 80,
         "aww": 50,
@@ -320,7 +320,7 @@
         "blue": 30
     },
 
-    "\xF0\x9F\x98\xAD":
+    "\xF0\x9F\x98\xAD": //tears down face
     {
         "damn": 70,
         "dang": 60,
@@ -332,7 +332,7 @@
         "shit": 30
     },
 
-    "\xF0\x9F\x98\xB1":
+    "\xF0\x9F\x98\xB1": //scream
     {
         "scared": 80,
         "fear": 80,
@@ -348,7 +348,7 @@
         "screamed": 80
     },
 
-    "\xF0\x9F\x98\xB2":
+    "\xF0\x9F\x98\xB2": //dead
     {
         "dead": 100,
         "dying": 80,
@@ -359,7 +359,7 @@
         "killed": 60
     },
 
-    "\xF0\x9F\x98\xB3":
+    "\xF0\x9F\x98\xB3": //embarrassed
     {
         "embarrassed": 90,
         "mb": 50,
@@ -373,7 +373,7 @@
         "why": 10
     },
 
-    "\xF0\x9F\x98\xB8":
+    "\xF0\x9F\x98\xB8": //cat
     {
         "cat": 100,
         "kitten": 90,
@@ -384,7 +384,7 @@
         "mew": 80
     },
 
-    "\xF0\x9F\x99\x85":
+    "\xF0\x9F\x99\x85": //girl x arms
     {
         "no": 80,
         "nope": 70,
@@ -397,7 +397,7 @@
         "girl": 50
     },
 
-    "\xF0\x9F\x99\x86":
+    "\xF0\x9F\x99\x86": //girl o arms
     {
         "ok": 70,
         "o": 60,
@@ -407,7 +407,7 @@
         "girl": 50
     },
 
-    "\xF0\x9F\x99\x88":
+    "\xF0\x9F\x99\x88": //see no evil
     {
         "see": 40,
         "saw": 40,
@@ -415,7 +415,7 @@
         "monkey": 40
     },
 
-    "\xF0\x9F\x99\x89":
+    "\xF0\x9F\x99\x89": //hear no evil
     {
         "hear": 40,
         "heard": 40,
@@ -423,7 +423,7 @@
         "monkey": 30
     },
 
-    "\xF0\x9F\x99\x8A":
+    "\xF0\x9F\x99\x8A": //speak no evil
     {
         "speak": 40,
         "said": 40,
@@ -435,7 +435,7 @@
         "things": 40
     },
 
-    "\xF0\x9F\x99\x8B":
+    "\xF0\x9F\x99\x8B": //girl hand raised
     {
         "raise": 80,
         "hand": 80,
@@ -456,7 +456,7 @@
         "where's": 40
     },
 
-    "\xF0\x9F\x99\x8C":
+    "\xF0\x9F\x99\x8C": //touchdown
     {
         "me": 80,
         "praise": 70,
@@ -470,7 +470,7 @@
         "thx": 60
     },
 
-    "\xF0\x9F\x99\x8D":
+    "\xF0\x9F\x99\x8D": //girl sheepish
     {
         "sheepish": 90,
         "sorry": 70,
@@ -479,7 +479,7 @@
         "messed": 50
     },
 
-    "\xF0\x9F\x99\x8F":
+    "\xF0\x9F\x99\x8F": //prayer
     {
         "praise": 90,
         "pray": 90,
@@ -497,13 +497,13 @@
         "thx": 60
     },
 
-    "\xE2\x9C\x82":
+    "\xE2\x9C\x82": //scissors
     {
         "scissors": 100,
         "cut": 70
     },
 
-    "\xE2\x9C\x88":
+    "\xE2\x9C\x88": //airplane
     {
         "plane": 70,
         "airplane": 90,
@@ -512,14 +512,14 @@
         "jet": 60
     },
 
-    "\xE2\x9C\x8B":
+    "\xE2\x9C\x8B": //stop hand
     {
         "hand": 80,
         "pause": 70,
         "stop": 60
     },
 
-    "\xE2\x9C\x8C":
+    "\xE2\x9C\x8C": //hand peace sign
     {
         "hand": 40,
         "peace": 70,
@@ -530,13 +530,13 @@
         "goodbye": 70
     },
 
-    "\xE2\x9C\x8F":
+    "\xE2\x9C\x8F": //pencil
     {
         "pencil": 100,
         "write": 50
     },
 
-    "\xE2\x9C\x92":
+    "\xE2\x9C\x92": //pen
     {
         "pen": 100,
         "quill": 70,
@@ -544,7 +544,7 @@
         "wrote": 50
     },
 
-    "\xE2\x9C\xA8":
+    "\xE2\x9C\xA8": //sparkles
     {
         "sparkle": 70,
         "sparkles": 70,
@@ -553,7 +553,7 @@
         "stars": 70
     },
 
-    "\xE2\x9D\x84":
+    "\xE2\x9D\x84": //snowflake
     {
         "snow": 90,
         "snowflake": 100,
@@ -562,14 +562,14 @@
         "inches": 20
     },
 
-    "\xE2\x9D\xA4":
+    "\xE2\x9D\xA4": //heart
     {
         "heart": 80,
         "love": 80,
         "ily": 70
     },
 
-    "\xF0\x9F\x9A\x80":
+    "\xF0\x9F\x9A\x80": //rocket ship
     {
         "space": 60,
         "rocket": 60,
@@ -581,7 +581,7 @@
         "pikmin": 80
     },
 
-    "\xF0\x9F\x9A\x84":
+    "\xF0\x9F\x9A\x84": //train
     {
         "train": 80,
         "ride": 50,
@@ -592,27 +592,27 @@
         "traincar": 80
     },
 
-    "\xF0\x9F\x9A\x8C":
+    "\xF0\x9F\x9A\x8C": //bus
     {
         "bus": 90,
         "stop": 50
     },
 
-    "\xF0\x9F\x9A\x91":
+    "\xF0\x9F\x9A\x91": //ambulance
     {
         "emergency": 80,
         "ER": 80,
         "ambulance": 90
     },
 
-    "\xF0\x9F\x9A\x92":
+    "\xF0\x9F\x9A\x92": //firetruck
     {
         "fire": 60,
         "firetruck": 60,
         "fuck": 50
     },
 
-    "\xF0\x9F\x9A\x93":
+    "\xF0\x9F\x9A\x93": //cop car
     {
         "cop": 80,
         "cops": 80,
@@ -622,7 +622,7 @@
         "flashing": 20
     },
 
-    "\xF0\x9F\x9A\x99":
+    "\xF0\x9F\x9A\x99": //car
     {
         "car": 80,
         "auto": 40,
@@ -632,24 +632,25 @@
         "vroom": 100
     },
 
-    "\xF0\x9F\x9A\x9A":
+    "\xF0\x9F\x9A\x9A": //moving truck
     {
         "haul": 80,
         "transport": 70,
         "relocate": 60
     },
 
-    "\xF0\x9F\x9A\xA2":
+    "\xF0\x9F\x9A\xA2": //boat
     {
         "boat": 80,
         "ship": 70,
         "sea": 70,
         "ocean": 70,
         "cruise": 50,
-        "water": 50
+        "water": 50,
+        "titantic": 70
     },
 
-    "\xF0\x9F\x9A\xA5":
+    "\xF0\x9F\x9A\xA5": //traffic light
     {
         "traffic": 90,
         "light": 30,
@@ -658,21 +659,22 @@
         "yellow": 30
     },
 
-    "\xF0\x9F\x9A\xA7":
+    "\xF0\x9F\x9A\xA7": //road block
     {
         "construction": 90,
         "block": 30,
         "blockage": 70,
         "blocked": 40,
-        "zone": 30
+        "zone": 30,
+        "road": 30
     },
 
-    "\xF0\x9F\x9A\xAB":
+    "\xF0\x9F\x9A\xAB": //do not sign
     {
         "no": 60
     },
 
-    "\xF0\x9F\x9A\xB2":
+    "\xF0\x9F\x9A\xB2": //bicycle
     {
         "bike": 90,
         "bicycle": 90,
@@ -680,7 +682,7 @@
         "pedal": 70
     },
 
-    "\xF0\x9F\x9A\xB6":
+    "\xF0\x9F\x9A\xB6": //man walking
     {
         "walk": 90,
         "stroll": 70,
@@ -689,26 +691,26 @@
         "life": 60
     },
 
-    "\xF0\x9F\x9A\xBD":
+    "\xF0\x9F\x9A\xBD": //toilet
     {
         "toilet": 80,
         "bathroom": 80
         "butthurt": 40
     },
 
-    "\xF0\x9F\x86\x92":
+    "\xF0\x9F\x86\x92": //cool square
     {
         "cool": 90,
         "coolio": 70
     },
 
-    "\xF0\x9F\x86\x97":
+    "\xF0\x9F\x86\x97": //ok square
     {
         "ok": 70,
         "okay": 60
     },
 
-    "\xF0\x9F\x87\xBA\xF0\x9F\x87\xB8":
+    "\xF0\x9F\x87\xBA\xF0\x9F\x87\xB8": //american falg
     {
         "murica": 100,
         "america": 80,
@@ -717,7 +719,7 @@
         "'murica": 100
     },
 
-    "\xE2\x8C\x9B":
+    "\xE2\x8C\x9B": //hourglass
     {
         "time": 60,
         "hourglass": 90,
@@ -728,7 +730,7 @@
         "now": 40
     },
 
-    "\xE2\x8F\xB0":
+    "\xE2\x8F\xB0": //alarm clock
     {
         "time": 50,
         "alarm": 60,
@@ -736,7 +738,7 @@
         "early": 50
     },
 
-    "\xE2\x98\x80":
+    "\xE2\x98\x80": //sun
     {
         "sun": 80,
         "sunlight": 80,
@@ -746,14 +748,14 @@
         "sky": 80
     },
 
-    "\xE2\x98\x81":
+    "\xE2\x98\x81": //cloud
     {
         "cloud": 80,
         "clouds": 80,
         "sky": 80
     },
 
-    "\xE2\x98\x8E":
+    "\xE2\x98\x8E": //landline phone
     {
         "phone": 60,
         "ring": 30,
@@ -761,52 +763,52 @@
         "call": 40
     },
 
-    "\xE2\x98\x94":
+    "\xE2\x98\x94": //umbrella with rain
     {
         "rain": 70,
         "raindrops": 70,
         "umbrella": 80
     },
 
-    "\xE2\x98\x9D":
+    "\xE2\x98\x9D": //hand pointing up
     {
         "up": 80,
         "above": 80
     },
 
-    "\xE2\x99\xA8":
+    "\xE2\x99\xA8": //warm wavy pattern
     {
         "bacon": 90,
         "sizzle": 40
     },
 
-    "\xE2\x99\xBB":
+    "\xE2\x99\xBB": // recycling symbol
     {
         "recycle": 80,
         "green": 50
     },
 
-    "\xE2\x9A\xA1":
+    "\xE2\x9A\xA1": //lightning bolt
     {
         "flash": 70,
         "storm": 60,
         "lightning": 60
     },
 
-    "\xE2\x9B\xAA":
+    "\xE2\x9B\xAA": //church
     {
         "faith": 70,
         "god": 40
     },
 
-    "\xE2\x9B\xBA":
+    "\xE2\x9B\xBA": //tent
     {
         "camp": 70,
         "camping": 70,
         "tent": 50
     },
 
-    "\xF0\x9F\x8C\x87":
+    "\xF0\x9F\x8C\x87": //city sunset
     {
         "city": 80,
         "sunset": 70,
@@ -814,7 +816,7 @@
         "buildings": 60
     },
 
-    "\xF0\x9F\x8C\xB9":
+    "\xF0\x9F\x8C\xB9": //rose
     {
         "rose": 80,
         "roses": 80,
@@ -823,7 +825,7 @@
         "thorns": 30
     },
 
-    "\xF0\x9F\x8D\x80":
+    "\xF0\x9F\x8D\x80": //four-leaf clover
     {
         "clover": 100,
         "four": 40,
@@ -831,7 +833,7 @@
         "luck": 90
     },
 
-    "\xF0\x9F\x8D\x82":
+    "\xF0\x9F\x8D\x82": //brown leaves
     {
         "fall": 40,
         "autumn": 70,
@@ -839,14 +841,14 @@
         "leaf": 50
     },
 
-    "\xF0\x9F\x8D\x8A":
+    "\xF0\x9F\x8D\x8A": //tangerine
     {
         "fruit": 70,
         "food": 40,
         "eat": 40
     },
 
-    "\xF0\x9F\x8D\x95":
+    "\xF0\x9F\x8D\x95": //pizza
     {
         "pizza": 80,
         "delivery": 50,
@@ -854,7 +856,7 @@
         "eat": 50
     },
 
-    "\xF0\x9F\x8D\xAA":
+    "\xF0\x9F\x8D\xAA": //cookie
     {
         "cookie": 80,
         "dessert": 50,
@@ -864,7 +866,7 @@
         "sugar": 30
     },
 
-    "\xF0\x9F\x8D\x84":
+    "\xF0\x9F\x8D\x84": //mushroom
     {
         "mushroom": 80,
         "mushrooms": 80,
@@ -873,7 +875,7 @@
         "tripping": 40
     },
 
-    "\xF0\x9F\x8D\xBB":
+    "\xF0\x9F\x8D\xBB": //beers
     {
         "cheers": 70,
         "beer": 70,
@@ -882,7 +884,7 @@
         "party": 50
     },
 
-    "\xF0\x9F\x8E\x81":
+    "\xF0\x9F\x8E\x81": //gift
     {
         "gift": 60,
         "present": 60,
@@ -890,12 +892,12 @@
         "box": 30
     },
 
-    "\xF0\x9F\x8E\x85":
+    "\xF0\x9F\x8E\x85": //santa head
     {
         "ho": 60
     },
 
-    "\xF0\x9F\x8E\x89":
+    "\xF0\x9F\x8E\x89": //confetti
     {
         "party": 70,
         "birthday": 80,
@@ -904,7 +906,7 @@
         "fun": 60
     },
 
-    "\xF0\x9F\x8E\xA8":
+    "\xF0\x9F\x8E\xA8": //paint palette
     {
         "paint": 80,
         "draw": 50,
@@ -914,7 +916,7 @@
         "palette": 70
     },
 
-    "\xF0\x9F\x8E\xAD":
+    "\xF0\x9F\x8E\xAD": //theater masks
     {
         "art": 40,
         "arts": 40,
@@ -924,7 +926,7 @@
         "actress": 70
     },
 
-    "\xF0\x9F\x8E\xAE":
+    "\xF0\x9F\x8E\xAE": //video game controller
     {
         "game": 70,
         "video": 60,
@@ -932,7 +934,7 @@
         "play": 40
     },
 
-    "\xF0\x9F\x8E\xB6":
+    "\xF0\x9F\x8E\xB6": //musical notes
     {
         "music": 80,
         "song": 70,
@@ -953,7 +955,7 @@
         "woodwinds": 30
     },
 
-    "\xF0\x9F\x8F\x80":
+    "\xF0\x9F\x8F\x80": //basketball
     {
         "basketball": 90,
         "ball": 80,
@@ -962,7 +964,7 @@
         "sport": 40
     },
 
-    "\xF0\x9F\x8F\x83":
+    "\xF0\x9F\x8F\x83": //man running
     {
         "running": 90,
         "man": 60,
@@ -975,7 +977,7 @@
         "sport": 40
     },
 
-    "\xF0\x9F\x8F\x8A":
+    "\xF0\x9F\x8F\x8A": //man swimming
     {
         "swim": 90,
         "swimming": 90,
@@ -986,14 +988,14 @@
         "sport": 40
     },
 
-    "\xF0\x9F\x8F\xA0":
+    "\xF0\x9F\x8F\xA0": //house
     {
         "house": 90,
         "home": 80,
         "casa": 70
     },
 
-    "\xF0\x9F\x90\x8C":
+    "\xF0\x9F\x90\x8C": //snail
     {
         "snail": 90,
         "slow": 60,
@@ -1001,21 +1003,21 @@
         "forever": 70
     },
 
-    "\xF0\x9F\x90\x94":
+    "\xF0\x9F\x90\x94": //chicken
     {
         "chicken": 90,
         "scared": 70,
         "bawk": 40
     },
 
-    "\xF0\x9F\x90\x99":
+    "\xF0\x9F\x90\x99": //octopus
     {
         "squishy": 100,
         "octopus": 100,
         "ocean": 30
     },
 
-    "\xF0\x9F\x90\x9D":
+    "\xF0\x9F\x90\x9D": //bumblebee
     {
         "bee": 90,
         "queen": 50,
@@ -1025,7 +1027,7 @@
         "honeycomb": 70
     },
 
-    "\xF0\x9F\x90\x9F":
+    "\xF0\x9F\x90\x9F": //fish
     {
         "fish": 90,
         "sea": 70,
@@ -1033,12 +1035,12 @@
         "water": 40
     },
 
-    "\xF0\x9F\x90\xA5":
+    "\xF0\x9F\x90\xA5": //baby chicken
     {
         "chick": 70
     },
 
-    "\xF0\x9F\x90\xAB":
+    "\xF0\x9F\x90\xAB": //camel
     {
         "camel": 80,
         "hump": 90,
@@ -1047,27 +1049,27 @@
         "wednesday": 60
     },
 
-    "\xF0\x9F\x91\x85":
+    "\xF0\x9F\x91\x85": //tongue
     {
         "tongue": 70,
         "lick": 70,
         "taste": 70
     },
 
-    "\xF0\x9F\x91\x88":
+    "\xF0\x9F\x91\x88": //hand pointing left
     {
         "meet": 80,
         "me": 70,
         "come": 80
     },
 
-    "\xF0\x9F\x91\x8A":
+    "\xF0\x9F\x91\x8A": //fist
     {
         "fist": 70,
         "fistbump": 80
     },
 
-    "\xF0\x9F\x91\x8C":
+    "\xF0\x9F\x91\x8C": //perfect hand
     {
         "perfect": 80,
         "yes": 70,
@@ -1075,18 +1077,18 @@
         "that": 30
     },
 
-    "\xF0\x9F\x91\x8D":
+    "\xF0\x9F\x91\x8D": //thumbs up
     {
         "thumbs": 70
     },
 
-    "\xF0\x9F\x91\x8F":
+    "\xF0\x9F\x91\x8F": //hands clapping
     {
         "clap": 80,
         "hands": 60
     },
 
-    "\xF0\x9F\x91\x91":
+    "\xF0\x9F\x91\x91": //crown
     {
         "crown": 90,
         "king": 70,
@@ -1094,7 +1096,7 @@
         "me": 40
     },
 
-    "\xF0\x9F\x92\x81":
+    "\xF0\x9F\x92\x81": //girl showing off
     {
         "me": 60,
         "flawless": 80,
@@ -1102,7 +1104,7 @@
         "pfft": 80
     },
 
-    "\xF0\x9F\x92\x86":
+    "\xF0\x9F\x92\x86": //girl head
     {
         "mind": 70,
         "brain": 70,
@@ -1111,7 +1113,7 @@
         "thinking": 60
     },
 
-    "\xF0\x9F\x92\x8D":
+    "\xF0\x9F\x92\x8D": //diamond ring
     {
         "ring": 80,
         "diamond": 80,
@@ -1119,12 +1121,12 @@
         "engaged": 40
     },
 
-    "\xF0\x9F\x92\x94":
+    "\xF0\x9F\x92\x94": //broken heart
     {
         "heartbreak": 100
     },
 
-    "\xF0\x9F\x92\xA1":
+    "\xF0\x9F\x92\xA1": //lightbulb
     {
         "lightbulb": 100,
         "light": 50,
@@ -1132,13 +1134,13 @@
         "bright": 80
     },
 
-    "\xF0\x9F\x92\xA3":
+    "\xF0\x9F\x92\xA3": //bomb
     {
         "bomb": 90,
         "boom": 70
     },
 
-    "\xF0\x9F\x92\xA4":
+    "\xF0\x9F\x92\xA4": //zzz
     {
         "sleep": 80,
         "night": 70,
@@ -1146,13 +1148,13 @@
         "zzz": 100
     },
 
-    "\xF0\x9F\x92\xA7":
+    "\xF0\x9F\x92\xA7": //water droplet
     {
         "water": 90,
         "drop": 60
     },
 
-    "\xF0\x9F\x92\xA8":
+    "\xF0\x9F\x92\xA8": //dust poof
     {
         "gust": 60,
         "air": 50,
@@ -1160,7 +1162,7 @@
         "cloud": 40
     },
 
-    "\xF0\x9F\x92\xA9":
+    "\xF0\x9F\x92\xA9": //pile of poo
     {
         "poo": 100,
         "poop": 90,
@@ -1180,7 +1182,7 @@
         "bullshit": 40
     },
 
-    "\xF0\x9F\x92\xAA":
+    "\xF0\x9F\x92\xAA": //right arm flex
     {
         "strong": 80,
         "muscles": 100,
@@ -1190,12 +1192,12 @@
         "bicep": 100
     },
 
-    "\xF0\x9F\x92\xAF":
+    "\xF0\x9F\x92\xAF": //100
     {
         "hundred": 100
     },
 
-    "\xF0\x9F\x92\xB0":
+    "\xF0\x9F\x92\xB0": //sack of cash
     {
         "cash": 80,
         "money": 90,
@@ -1205,7 +1207,7 @@
         "diggity": 40
     },
 
-    "\xF0\x9F\x93\x93":
+    "\xF0\x9F\x93\x93": //notebook
     {
         "notes": 80,
         "notebook": 80,
@@ -1214,7 +1216,7 @@
         "wrote": 60
     },
 
-    "\xF0\x9F\x93\x9A":
+    "\xF0\x9F\x93\x9A": //books
     {
         "book": 80,
         "books": 90,
@@ -1226,13 +1228,13 @@
         "work": 60
     },
 
-    "\xF0\x9F\x93\xA2":
+    "\xF0\x9F\x93\xA2": //p.a. system
     {
         "listen": 60,
         "me": 30
     },
 
-    "\xF0\x9F\x93\xB1":
+    "\xF0\x9F\x93\xB1": //iPhone
     {
         "iPhone": 80,
         "smartphone": 70,
@@ -1240,7 +1242,7 @@
         "call": 50
     },
 
-    "\xF0\x9F\x93\xB7":
+    "\xF0\x9F\x93\xB7": //digital camera
     {
         "camera": 90,
         "picture": 70,
@@ -1250,7 +1252,7 @@
         "snap": 70
     },
 
-    "\xF0\x9F\x93\xBA":
+    "\xF0\x9F\x93\xBA": //TV
     {
         "tv": 90,
         "television": 90,
@@ -1259,7 +1261,7 @@
         "channels": 70
     },
 
-    "\xF0\x9F\x94\x8D":
+    "\xF0\x9F\x94\x8D": //magnifying glass
     {
         "see": 60,
         "magnifying": 90,
@@ -1267,7 +1269,7 @@
         "identify": 70
     },
 
-    "\xF0\x9F\x94\x91":
+    "\xF0\x9F\x94\x91": //key
     {
         "key": 90,
         "keys": 80,
@@ -1276,7 +1278,7 @@
         "car": 10
     },
 
-    "\xF0\x9F\x94\x92":
+    "\xF0\x9F\x94\x92": //lock
     {
         "lock": 90,
         "unlock": 60,
@@ -1285,24 +1287,24 @@
         "virgin": 100
     },
 
-    "\xF0\x9F\x94\x9C":
+    "\xF0\x9F\x94\x9C": //soon
     {
         "soon": 20
     },
 
-    "\xF0\x9F\x94\xA5":
+    "\xF0\x9F\x94\xA5": //fire
     {
         "fire": 100,
         "flame": 90,
         "hot": 90,
         "smoking": 80,
-        smokin', 80,
+        "smokin'", 80,
         "fiya": 80,
         "damn": 60,
         "dang": 50
     },
 
-    "\xF0\x9F\x94\xA7":
+    "\xF0\x9F\x94\xA7": //wrench
     {
         "wrench": 100,
         "tool": 90,
@@ -1315,14 +1317,14 @@
         "assemble": 20
     },
 
-    "\xF0\x9F\x94\xAE":
+    "\xF0\x9F\x94\xAE": //crystal ball
     {
         "future": 70,
         "crystal": 80,
         "ball": 40
     },
 
-    "\xF0\x9F\x98\x8E":
+    "\xF0\x9F\x98\x8E": //sunglasses smiley
     {
         "cool": 70,
         "chill": 90,
@@ -1335,7 +1337,7 @@
         "summer": 60
     },
 
-    "\xF0\x9F\x98\x95":
+    "\xF0\x9F\x98\x95": //slanted frown
     {
         "difficult": 40,
         "uncomfortable": 60,
@@ -1343,7 +1345,7 @@
         "weird": 50
     },
 
-    "\xF0\x9F\x98\xB6":
+    "\xF0\x9F\x98\xB6": //no mouth face
     {
         "wut": 100,
         "wtf": 40,
@@ -1351,7 +1353,7 @@
         "uhhhh": 80
     },
 
-    "\xF0\x9F\x9A\x9C":
+    "\xF0\x9F\x9A\x9C": //tractor
     {
         "tractor": 100,
         "farm": 90,
@@ -1359,13 +1361,13 @@
         "corn": 60
     },
 
-    "\xF0\x9F\x9A\xBF":
+    "\xF0\x9F\x9A\xBF": //showerhead
     {
         "shower": 90,
         "rinse": 50
     },
 
-    "\xF0\x9F\x8C\x8E":
+    "\xF0\x9F\x8C\x8E": //earth
     {
         "earth": 80,
         "planet": 60,
@@ -1373,20 +1375,20 @@
         "world": 70
     },
 
-    "\xF0\x9F\x90\x93":
+    "\xF0\x9F\x90\x93": //chicken
     {
         "chicken": 100,
         "scared": 80,
         "dinosaur": 20
     },
 
-    "\xF0\x9F\x94\x87":
+    "\xF0\x9F\x94\x87": //line through speaker
     {
         "silent": 90,
         "mute": 90
     },
 
-    "\xF0\x9F\x94\xAD":
+    "\xF0\x9F\x94\xAD": //telescope
     {
         "telescope": 100,
         "outer": 40,
@@ -1395,7 +1397,7 @@
         "stargazing": 80
     },
 
-    "\xF0\x9F\x94\xAC":
+    "\xF0\x9F\x94\xAC": //microscope
     {
         "science": 80,
         "microscope": 100,

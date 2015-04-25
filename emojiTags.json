@@ -577,6 +577,7 @@
     "\xF0\x9F\x9A\xBD", {
         "toilet": 80
         "bathroom": 80
+        "butthurt": 40
     },
     "\xF0\x9F\x86\x92", {
         "cool": 90
@@ -940,6 +941,8 @@
         "goddamnit": 100
         "two": 20
         "duece": 50
+        "butthole": 40
+        "bullshit": 40
     },
     "\xF0\x9F\x92\xAA", {
         "strong": 80
@@ -1088,6 +1091,7 @@
         "earth": 80
         "planet": 60
         "globe": 70
+        "world": 70
     },
     "\xF0\x9F\x90\x93", {
         "chicken": 100

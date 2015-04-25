@@ -15,6 +15,7 @@
         "chilly": 80,
         "monday": 70
     },
+
     "\xF0\x9F\x98\x82":
     {
         "laughing": 60,
@@ -28,6 +29,7 @@
         "rofl": 100,
         "dyin": 60
     },
+
     "\xF0\x9F\x98\x83":
     {
         "smile": 90,
@@ -47,6 +49,7 @@
         "ooooh": 40,
         "oooooh": 40
     },
+
     "\xF0\x9F\x98\x84":
     {
         "smile": 100,
@@ -63,6 +66,7 @@
         "fun": 60,
         "liked": 80
     },
+
     "\xF0\x9F\x98\x85":
     {
         "oops": 90,
@@ -75,6 +79,7 @@
         "whoops": 90,
         "silly": 70
     },
+
     "\xF0\x9F\x98\x86":
     {
         "lol": 80,
@@ -87,6 +92,7 @@
         "silly": 70,
         "idk": 70
     },
+
     "\xF0\x9F\x98\x89":
     {
         "hey": 60,
@@ -110,6 +116,7 @@
         "weekend": 50,
         "pfft": 40
     },
+
     "\xF0\x9F\x98\x8A":
     {
         "mm": 40,
@@ -128,6 +135,7 @@
         "terrific": 40,
         "yup": 40
     },
+
     "\xF0\x9F\x98\x8B":
     {
         "silly": 90,
@@ -146,6 +154,7 @@
         "fun": 70,
         "idk": 50
     },
+
     "\xF0\x9F\x98\x8C":
     {
         "relieved": 100,
@@ -164,6 +173,7 @@
         "sleepy": 30,
         "sleeping": 30
     },
+
     "\xF0\x9F\x98\x8D":
     {
         "love": 80,
@@ -175,6 +185,7 @@
         "hearts": 90,
         "smile": 20
     },
+
     "\xF0\x9F\x98\x8F":
     {
         "hmm": 60,
@@ -189,6 +200,7 @@
         "weekend": 40,
         "pfft": 70
     },
+
     "\xF0\x9F\x98\x92":
     {
         "eh": 60,
@@ -204,6 +216,7 @@
         "anything": 30,
         "monday": 60
     },
+
     "\xF0\x9F\x98\x93":
     {
         "eh": 50,
@@ -217,6 +230,7 @@
         "busy": 80,
         "sorry": 70
     },
+
     "\xF0\x9F\x98\x96":
     {
         "bleh": 80,
@@ -239,6 +253,7 @@
         "hangover": 60,
         "hungover": 60
     },
+
     "\xF0\x9F\x98\x98":
     {
         "kiss": 100,
@@ -252,6 +267,7 @@
         "love": 40,
         "you": 50
     },
+
     "\xF0\x9F\x98\x9C":
     {
         "lol": 60,
@@ -266,6 +282,7 @@
         "fun": 60,
         "idk": 60
     },
+
     "\xF0\x9F\x98\xA1":
     {
         "mad": 80,
@@ -281,6 +298,7 @@
         "ugh": 30,
         "ughh": 40
     },
+
     "\xF0\x9F\x98\xA4":
     {
         "mad": 40,
@@ -289,6 +307,7 @@
         "whatever": 80,
         "jeez": 80
     },
+
     "\xF0\x9F\x98\xA5":
     {
         "sad": 80,
@@ -300,6 +319,7 @@
         "low": 40,
         "blue": 30
     },
+
     "\xF0\x9F\x98\xAD":
     {
         "damn": 70,
@@ -311,6 +331,7 @@
         "crap": 60,
         "shit": 30
     },
+
     "\xF0\x9F\x98\xB1":
     {
         "scared": 80,
@@ -326,6 +347,7 @@
         "screaming": 80,
         "screamed": 80
     },
+
     "\xF0\x9F\x98\xB2":
     {
         "dead": 100,
@@ -336,6 +358,7 @@
         "kill": 40,
         "killed": 60
     },
+
     "\xF0\x9F\x98\xB3":
     {
         "embarrassed": 90,
@@ -349,6 +372,7 @@
         "bare": 70,
         "why": 10
     },
+
     "\xF0\x9F\x98\xB8":
     {
         "cat": 100,
@@ -359,6 +383,7 @@
         "meow": 70,
         "mew": 80
     },
+
     "\xF0\x9F\x99\x85":
     {
         "no": 80,
@@ -371,6 +396,7 @@
         "x": 60,
         "girl": 50
     },
+
     "\xF0\x9F\x99\x86":
     {
         "ok": 70,
@@ -380,6 +406,7 @@
         "okee": 70,
         "girl": 50
     },
+
     "\xF0\x9F\x99\x88":
     {
         "see": 40,
@@ -387,6 +414,7 @@
         "evil": 40,
         "monkey": 40
     },
+
     "\xF0\x9F\x99\x89":
     {
         "hear": 40,
@@ -394,6 +422,7 @@
         "evil": 30,
         "monkey": 30
     },
+
     "\xF0\x9F\x99\x8A":
     {
         "speak": 40,
@@ -405,6 +434,7 @@
         "unbelievable": 80,
         "things": 40
     },
+
     "\xF0\x9F\x99\x8B":
     {
         "raise": 80,
@@ -425,6 +455,7 @@
         "where": 40,
         "where's": 40
     },
+
     "\xF0\x9F\x99\x8C":
     {
         "me": 80,
@@ -438,6 +469,7 @@
         "thanks": 60,
         "thx": 60
     },
+
     "\xF0\x9F\x99\x8D":
     {
         "sheepish": 90,
@@ -446,6 +478,7 @@
         "mess": 40,
         "messed": 50
     },
+
     "\xF0\x9F\x99\x8F":
     {
         "praise": 90,
@@ -463,11 +496,13 @@
         "thanks": 70,
         "thx": 60
     },
+
     "\xE2\x9C\x82":
     {
         "scissors": 100,
         "cut": 70
     },
+
     "\xE2\x9C\x88":
     {
         "plane": 70,
@@ -476,12 +511,14 @@
         "flying": 60,
         "jet": 60
     },
+
     "\xE2\x9C\x8B":
     {
         "hand": 80,
         "pause": 70,
         "stop": 60
     },
+
     "\xE2\x9C\x8C":
     {
         "hand": 40,
@@ -492,11 +529,13 @@
         "bye": 70,
         "goodbye": 70
     },
+
     "\xE2\x9C\x8F":
     {
         "pencil": 100,
         "write": 50
     },
+
     "\xE2\x9C\x92":
     {
         "pen": 100,
@@ -504,6 +543,7 @@
         "write": 50,
         "wrote": 50
     },
+
     "\xE2\x9C\xA8":
     {
         "sparkle": 70,
@@ -512,6 +552,7 @@
         "star": 70,
         "stars": 70
     },
+
     "\xE2\x9D\x84":
     {
         "snow": 90,
@@ -520,12 +561,14 @@
         "snowfall": 70,
         "inches": 20
     },
+
     "\xE2\x9D\xA4":
     {
         "heart": 80,
         "love": 80,
         "ily": 70
     },
+
     "\xF0\x9F\x9A\x80":
     {
         "space": 60,
@@ -537,6 +580,7 @@
         "mars": 30,
         "pikmin": 80
     },
+
     "\xF0\x9F\x9A\x84":
     {
         "train": 80,
@@ -547,23 +591,27 @@
         "crossing": 30,
         "traincar": 80
     },
+
     "\xF0\x9F\x9A\x8C":
     {
         "bus": 90,
         "stop": 50
     },
+
     "\xF0\x9F\x9A\x91":
     {
         "emergency": 80,
         "ER": 80,
         "ambulance": 90
     },
+
     "\xF0\x9F\x9A\x92":
     {
         "fire": 60,
         "firetruck": 60,
         "fuck": 50
     },
+
     "\xF0\x9F\x9A\x93":
     {
         "cop": 80,
@@ -573,6 +621,7 @@
         "car": 30,
         "flashing": 20
     },
+
     "\xF0\x9F\x9A\x99":
     {
         "car": 80,
@@ -582,12 +631,14 @@
         "drive": 70,
         "vroom": 100
     },
+
     "\xF0\x9F\x9A\x9A":
     {
         "haul": 80,
         "transport": 70,
         "relocate": 60
     },
+
     "\xF0\x9F\x9A\xA2":
     {
         "boat": 80,
@@ -597,6 +648,7 @@
         "cruise": 50,
         "water": 50
     },
+
     "\xF0\x9F\x9A\xA5":
     {
         "traffic": 90,
@@ -605,17 +657,21 @@
         "red": 30,
         "yellow": 30
     },
+
     "\xF0\x9F\x9A\xA7":
     {
         "construction": 90,
         "block": 30,
         "blockage": 70,
         "blocked": 40,
-        "zone": 30,
+        "zone": 30
+    },
+
     "\xF0\x9F\x9A\xAB":
     {
         "no": 60
     },
+
     "\xF0\x9F\x9A\xB2":
     {
         "bike": 90,
@@ -623,6 +679,7 @@
         "ride": 50,
         "pedal": 70
     },
+
     "\xF0\x9F\x9A\xB6":
     {
         "walk": 90,
@@ -631,22 +688,26 @@
         "meh": 30,
         "life": 60
     },
+
     "\xF0\x9F\x9A\xBD":
     {
         "toilet": 80,
         "bathroom": 80
         "butthurt": 40
     },
+
     "\xF0\x9F\x86\x92":
     {
         "cool": 90,
         "coolio": 70
     },
+
     "\xF0\x9F\x86\x97":
     {
         "ok": 70,
         "okay": 60
     },
+
     "\xF0\x9F\x87\xBA\xF0\x9F\x87\xB8":
     {
         "murica": 100,
@@ -655,6 +716,7 @@
         "american": 80,
         "'murica": 100
     },
+
     "\xE2\x8C\x9B":
     {
         "time": 60,
@@ -665,6 +727,7 @@
         "thinking": 70,
         "now": 40
     },
+
     "\xE2\x8F\xB0":
     {
         "time": 50,
@@ -672,6 +735,7 @@
         "clock": 60,
         "early": 50
     },
+
     "\xE2\x98\x80":
     {
         "sun": 80,
@@ -681,12 +745,14 @@
         "bronze": 60,
         "sky": 80
     },
+
     "\xE2\x98\x81":
     {
         "cloud": 80,
         "clouds": 80,
         "sky": 80
     },
+
     "\xE2\x98\x8E":
     {
         "phone": 60,
@@ -694,44 +760,52 @@
         "dial": 50,
         "call": 40
     },
+
     "\xE2\x98\x94":
     {
         "rain": 70,
         "raindrops": 70,
         "umbrella": 80
     },
+
     "\xE2\x98\x9D":
     {
         "up": 80,
         "above": 80
     },
+
     "\xE2\x99\xA8":
     {
         "bacon": 90,
         "sizzle": 40
     },
+
     "\xE2\x99\xBB":
     {
         "recycle": 80,
         "green": 50
     },
+
     "\xE2\x9A\xA1":
     {
         "flash": 70,
         "storm": 60,
         "lightning": 60
     },
+
     "\xE2\x9B\xAA":
     {
         "faith": 70,
         "god": 40
     },
+
     "\xE2\x9B\xBA":
     {
         "camp": 70,
         "camping": 70,
         "tent": 50
     },
+
     "\xF0\x9F\x8C\x87":
     {
         "city": 80,
@@ -739,6 +813,7 @@
         "building": 60,
         "buildings": 60
     },
+
     "\xF0\x9F\x8C\xB9":
     {
         "rose": 80,
@@ -747,12 +822,15 @@
         "flowers": 60,
         "thorns": 30
     },
+
     "\xF0\x9F\x8D\x80":
     {
         "clover": 100,
         "four": 40,
         "good": 30,
-        "luck": 90,
+        "luck": 90
+    },
+
     "\xF0\x9F\x8D\x82":
     {
         "fall": 40,
@@ -760,12 +838,14 @@
         "leaves": 50,
         "leaf": 50
     },
+
     "\xF0\x9F\x8D\x8A":
     {
         "fruit": 70,
         "food": 40,
         "eat": 40
     },
+
     "\xF0\x9F\x8D\x95":
     {
         "pizza": 80,
@@ -773,6 +853,7 @@
         "food": 50,
         "eat": 50
     },
+
     "\xF0\x9F\x8D\xAA":
     {
         "cookie": 80,
@@ -782,6 +863,7 @@
         "choclate": 30,
         "sugar": 30
     },
+
     "\xF0\x9F\x8D\x84":
     {
         "mushroom": 80,
@@ -790,6 +872,7 @@
         "high": 40,
         "tripping": 40
     },
+
     "\xF0\x9F\x8D\xBB":
     {
         "cheers": 70,
@@ -798,6 +881,7 @@
         "drinking": 80,
         "party": 50
     },
+
     "\xF0\x9F\x8E\x81":
     {
         "gift": 60,
@@ -805,10 +889,12 @@
         "surprise": 50,
         "box": 30
     },
+
     "\xF0\x9F\x8E\x85":
     {
         "ho": 60
     },
+
     "\xF0\x9F\x8E\x89":
     {
         "party": 70,
@@ -817,6 +903,7 @@
         "parties": 70,
         "fun": 60
     },
+
     "\xF0\x9F\x8E\xA8":
     {
         "paint": 80,
@@ -826,6 +913,7 @@
         "canvas": 60,
         "palette": 70
     },
+
     "\xF0\x9F\x8E\xAD":
     {
         "art": 40,
@@ -835,6 +923,7 @@
         "actor": 70,
         "actress": 70
     },
+
     "\xF0\x9F\x8E\xAE":
     {
         "game": 70,
@@ -842,6 +931,7 @@
         "gaming": 80,
         "play": 40
     },
+
     "\xF0\x9F\x8E\xB6":
     {
         "music": 80,
@@ -862,6 +952,7 @@
         "horns": 30,
         "woodwinds": 30
     },
+
     "\xF0\x9F\x8F\x80":
     {
         "basketball": 90,
@@ -870,6 +961,7 @@
         "sports": 60,
         "sport": 40
     },
+
     "\xF0\x9F\x8F\x83":
     {
         "running": 90,
@@ -882,6 +974,7 @@
         "sports": 70,
         "sport": 40
     },
+
     "\xF0\x9F\x8F\x8A":
     {
         "swim": 90,
@@ -892,12 +985,14 @@
         "practice": 30,
         "sport": 40
     },
+
     "\xF0\x9F\x8F\xA0":
     {
         "house": 90,
         "home": 80,
         "casa": 70
     },
+
     "\xF0\x9F\x90\x8C":
     {
         "snail": 90,
@@ -905,18 +1000,21 @@
         "slowpoke": 60,
         "forever": 70
     },
+
     "\xF0\x9F\x90\x94":
     {
         "chicken": 90,
         "scared": 70,
         "bawk": 40
     },
+
     "\xF0\x9F\x90\x99":
     {
         "squishy": 100,
         "octopus": 100,
         "ocean": 30
     },
+
     "\xF0\x9F\x90\x9D":
     {
         "bee": 90,
@@ -926,6 +1024,7 @@
         "honey": 60,
         "honeycomb": 70
     },
+
     "\xF0\x9F\x90\x9F":
     {
         "fish": 90,
@@ -933,10 +1032,12 @@
         "ocean": 70,
         "water": 40
     },
+
     "\xF0\x9F\x90\xA5":
     {
         "chick": 70
     },
+
     "\xF0\x9F\x90\xAB":
     {
         "camel": 80,
@@ -945,23 +1046,27 @@
         "desert": 50,
         "wednesday": 60
     },
+
     "\xF0\x9F\x91\x85":
     {
         "tongue": 70,
         "lick": 70,
         "taste": 70
     },
+
     "\xF0\x9F\x91\x88":
     {
         "meet": 80,
         "me": 70,
         "come": 80
     },
+
     "\xF0\x9F\x91\x8A":
     {
         "fist": 70,
         "fistbump": 80
     },
+
     "\xF0\x9F\x91\x8C":
     {
         "perfect": 80,
@@ -969,15 +1074,18 @@
         "good": 60,
         "that": 30
     },
+
     "\xF0\x9F\x91\x8D":
     {
         "thumbs": 70
     },
+
     "\xF0\x9F\x91\x8F":
     {
         "clap": 80,
         "hands": 60
     },
+
     "\xF0\x9F\x91\x91":
     {
         "crown": 90,
@@ -985,6 +1093,7 @@
         "best": 60,
         "me": 40
     },
+
     "\xF0\x9F\x92\x81":
     {
         "me": 60,
@@ -992,6 +1101,7 @@
         "girl": 50,
         "pfft": 80
     },
+
     "\xF0\x9F\x92\x86":
     {
         "mind": 70,
@@ -1000,6 +1110,7 @@
         "thoughts": 50,
         "thinking": 60
     },
+
     "\xF0\x9F\x92\x8D":
     {
         "ring": 80,
@@ -1007,10 +1118,12 @@
         "married": 40,
         "engaged": 40
     },
+
     "\xF0\x9F\x92\x94":
     {
         "heartbreak": 100
     },
+
     "\xF0\x9F\x92\xA1":
     {
         "lightbulb": 100,
@@ -1018,11 +1131,13 @@
         "idea": 70,
         "bright": 80
     },
+
     "\xF0\x9F\x92\xA3":
     {
         "bomb": 90,
         "boom": 70
     },
+
     "\xF0\x9F\x92\xA4":
     {
         "sleep": 80,
@@ -1030,11 +1145,13 @@
         "goodnight": 70,
         "zzz": 100
     },
+
     "\xF0\x9F\x92\xA7":
     {
         "water": 90,
         "drop": 60
     },
+
     "\xF0\x9F\x92\xA8":
     {
         "gust": 60,
@@ -1042,6 +1159,7 @@
         "dust": 50,
         "cloud": 40
     },
+
     "\xF0\x9F\x92\xA9":
     {
         "poo": 100,
@@ -1061,6 +1179,7 @@
         "butthole": 40
         "bullshit": 40
     },
+
     "\xF0\x9F\x92\xAA":
     {
         "strong": 80,
@@ -1070,10 +1189,12 @@
         "arm": 60,
         "bicep": 100
     },
+
     "\xF0\x9F\x92\xAF":
     {
         "hundred": 100
     },
+
     "\xF0\x9F\x92\xB0":
     {
         "cash": 80,
@@ -1083,6 +1204,7 @@
         "dollars": 70,
         "diggity": 40
     },
+
     "\xF0\x9F\x93\x93":
     {
         "notes": 80,
@@ -1091,6 +1213,7 @@
         "write": 60,
         "wrote": 60
     },
+
     "\xF0\x9F\x93\x9A":
     {
         "book": 80,
@@ -1102,11 +1225,13 @@
         "shit": 10,
         "work": 60
     },
+
     "\xF0\x9F\x93\xA2":
     {
         "listen": 60,
         "me": 30
     },
+
     "\xF0\x9F\x93\xB1":
     {
         "iPhone": 80,
@@ -1114,6 +1239,7 @@
         "phone": 60,
         "call": 50
     },
+
     "\xF0\x9F\x93\xB7":
     {
         "camera": 90,
@@ -1123,6 +1249,7 @@
         "video": 50,
         "snap": 70
     },
+
     "\xF0\x9F\x93\xBA":
     {
         "tv": 90,
@@ -1131,6 +1258,7 @@
         "channel": 70,
         "channels": 70
     },
+
     "\xF0\x9F\x94\x8D":
     {
         "see": 60,
@@ -1138,6 +1266,7 @@
         "examine": 80,
         "identify": 70
     },
+
     "\xF0\x9F\x94\x91":
     {
         "key": 90,
@@ -1146,6 +1275,7 @@
         "locked": 20,
         "car": 10
     },
+
     "\xF0\x9F\x94\x92":
     {
         "lock": 90,
@@ -1154,10 +1284,12 @@
         "chastity": 100,
         "virgin": 100
     },
+
     "\xF0\x9F\x94\x9C":
     {
         "soon": 20
     },
+
     "\xF0\x9F\x94\xA5":
     {
         "fire": 100,
@@ -1169,6 +1301,7 @@
         "damn": 60,
         "dang": 50
     },
+
     "\xF0\x9F\x94\xA7":
     {
         "wrench": 100,
@@ -1181,12 +1314,14 @@
         "construct": 80,
         "assemble": 20
     },
+
     "\xF0\x9F\x94\xAE":
     {
         "future": 70,
         "crystal": 80,
         "ball": 40
     },
+
     "\xF0\x9F\x98\x8E":
     {
         "cool": 70,
@@ -1199,6 +1334,7 @@
         "sunglasses": 100,
         "summer": 60
     },
+
     "\xF0\x9F\x98\x95":
     {
         "difficult": 40,
@@ -1206,6 +1342,7 @@
         "meh": 40,
         "weird": 50
     },
+
     "\xF0\x9F\x98\xB6":
     {
         "wut": 100,
@@ -1213,6 +1350,7 @@
         "uhhh": 80,
         "uhhhh": 80
     },
+
     "\xF0\x9F\x9A\x9C":
     {
         "tractor": 100,
@@ -1220,11 +1358,13 @@
         "field": 80,
         "corn": 60
     },
+
     "\xF0\x9F\x9A\xBF":
     {
         "shower": 90,
         "rinse": 50
     },
+
     "\xF0\x9F\x8C\x8E":
     {
         "earth": 80,
@@ -1232,17 +1372,20 @@
         "globe": 70
         "world": 70
     },
+
     "\xF0\x9F\x90\x93":
     {
         "chicken": 100,
         "scared": 80,
         "dinosaur": 20
     },
+
     "\xF0\x9F\x94\x87":
     {
         "silent": 90,
         "mute": 90
     },
+
     "\xF0\x9F\x94\xAD":
     {
         "telescope": 100,
@@ -1251,6 +1394,7 @@
         "stars": 80,
         "stargazing": 80
     },
+
     "\xF0\x9F\x94\xAC":
     {
         "science": 80,

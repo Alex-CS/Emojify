@@ -41,7 +41,7 @@
         var inputString = document.getElementById('inputField').value;
         var threshold = document.getElementById('numberInput').value;
         $.ajax({
-            type: 'GET',
+            type: 'POST',
             url: '/emojify',
             data: {
                 input: inputString,

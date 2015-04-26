@@ -3,6 +3,7 @@
 	
 	<head>
 		<script src="jquery-2.1.3.min.js"></script>
+		<scriptsrc="emoji.js" type="text/javascript"></script>
 		<link rel="stylesheet" href="emojify.css">
 		<title> Emojify!</title>
 	</head>
@@ -22,7 +23,7 @@
 				<input type="submit" value="Submit">
 			</form>
 
-			<textarea id="outputField" rows="4" cols="50"></textarea>
+			<textarea readonly="true" id="outputField" rows="4" cols="50"></textarea>
 		</div>
 
 	</body>
@@ -30,10 +31,10 @@
 	<script src="emoji.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	var rawTitle = document.getElementById("title");
-	//var emojiTitle = emoji.replace_colons(":smile::grin:");
+	/*var emojiTitle = emoji.replace_colons(":smile::grin:");
 	emoji.text_mode = true;
 	emoji.img_path = "https://github.com/github/gemoji/tree/master/images/emoji/unicode"
-	rawTitle.textContent = emojiTitle;
+	rawTitle.textContent = emojiTitle;*/
 
 	function emojifyText(){
 		var inputString = document.getElementById('inputField').value;
@@ -58,7 +59,7 @@
 		var output = emoji.replace_colons(colonString);
 		var finalString = inputString + output;
 		//document.getElementById('outputField').textContent = finalString;
-		//$('#outputField').val(finalString);
+		$('#outputField').val(finalString);
 		rawTitle.textContent=finalString;
 		return finalString;
 	}

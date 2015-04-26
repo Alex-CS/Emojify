@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 10px;
+    padding: 10px;
+    height: 100%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #607F00;
+    background-color: #9F15AF;    
+}
+
+select{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: blue;
+    color: #EF4F00;
+}
+
+input {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: #FFFF00;
+    color: #3FBF00;
+}

@@ -25,7 +25,8 @@ def flip_mapping(dict_):
 
 
 def sanitize(string_):
-    clean = re.sub(r"[,.?!]", "", string_)
+    clean = string_.lower()
+    clean = re.sub(r"[,.?!]", "", clean)
     clean = clean.replace("_", " ")
     return clean
 
@@ -53,6 +54,9 @@ class EmojiTranslation(Resource):
                     total_weight = related_emojis.get(emoji, 0)
                     related_emojis[emoji] = total_weight + weight
 
+        if not len(related_emojis):
+            return ""
+
         # Build a list of the appropriate number of emojis
         list_of_emojis = []
         while len(list_of_emojis) < threshold and max(
@@ -61,7 +65,3 @@ class EmojiTranslation(Resource):
             list_of_emojis.append(top)
             related_emojis[top] = 0
         return ''.join(list_of_emojis)
-
-if __name__ == "__main__":
-    em = EmojiTranslation()
-    print em.get("happy firetruck", 4)

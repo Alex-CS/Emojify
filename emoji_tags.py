@@ -1,7 +1,6 @@
 # Names from http://www.emoji-cheat-sheet.com
-tags = 
-{
-    ":grin:": # tense grin
+tags = {
+    ":grin:":  # tense grin
     {
         "smile": 20,
         "nervous": 80,
@@ -18,7 +17,7 @@ tags =
         "monday": 70
     },
 
-    ":joy:": # laughing tears
+    ":joy:":  # laughing tears
     {
         "laughing": 60,
         "hysterical": 70,
@@ -32,7 +31,7 @@ tags =
         "dyin": 60
     },
 
-    ":smiley:": # smile
+    ":smiley:":  # smile
     {
         "smile": 90,
         "bright": 60,
@@ -52,7 +51,7 @@ tags =
         "oooooh": 40
     },
 
-    ":smile:": # smile eyes
+    ":smile:":  # smile eyes
     {
         "smile": 100,
         "nice": 80,
@@ -69,7 +68,7 @@ tags =
         "liked": 80
     },
 
-    ":sweat_smile:": # oops smile
+    ":sweat_smile:":  # oops smile
     {
         "oops": 90,
         "mb": 90,
@@ -82,7 +81,7 @@ tags =
         "silly": 70
     },
 
-    ":satisfied:": # XD
+    ":satisfied:":  # XD
     {
         "lol": 80,
         "lmao": 60,
@@ -95,7 +94,7 @@ tags =
         "idk": 70
     },
 
-    ":wink:": # wink
+    ":wink:":  # wink
     {
         "hey": 60,
         "heya": 80,
@@ -116,7 +115,7 @@ tags =
         "pfft": 40
     },
 
-    ":blush:": # blushing smile
+    ":blush:":  # blushing smile
     {
         "mm": 40,
         "mmm": 50,
@@ -135,7 +134,7 @@ tags =
         "yup": 40
     },
 
-    ":yum:": # tongue smile
+    ":yum:":  # tongue smile
     {
         "silly": 90,
         "lol": 60,
@@ -154,7 +153,7 @@ tags =
         "idk": 50
     },
 
-    ":relieved:" # peaceful smile
+    ":relieved:":  # peaceful smile
     {
         "relieved": 100,
         "phew": 80,
@@ -173,7 +172,7 @@ tags =
         "sleeping": 30
     },
 
-    ":heart_eyes:": # heart eyes
+    ":heart_eyes:":  # heart eyes
     {
         "love": 80,
         "yes": 70,
@@ -185,7 +184,7 @@ tags =
         "smile": 20
     },
 
-    ":smirk:": # smirk
+    ":smirk:":  # smirk
     {
         "hmm": 60,
         "ok": 50,
@@ -200,7 +199,7 @@ tags =
         "pfft": 70
     },
 
-    ":unamused:": # sideways glance
+    ":unamused:":  # sideways glance
     {
         "eh": 60,
         "ehh": 70,
@@ -216,7 +215,7 @@ tags =
         "monday": 60
     },
 
-    ":sweat:": # depressed
+    ":sweat:":  # depressed
     {
         "eh": 50,
         "ehh": 50,
@@ -230,7 +229,7 @@ tags =
         "sorry": 70
     },
 
-    ":confounded:": # grossed out
+    ":confounded:":  # grossed out
     {
         "bleh": 80,
         "ew": 80,
@@ -253,7 +252,7 @@ tags =
         "hungover": 60
     },
 
-    ":kissing_heart:": # blow kiss
+    ":kissing_heart:":  # blow kiss
     {
         "kiss": 100,
         "xo": 80,
@@ -267,10 +266,10 @@ tags =
         "you": 50
     },
 
-    ":stuck_out_tongue_winking_eye:": # tongue wink
+    ":stuck_out_tongue_winking_eye:":  # tongue wink
     {
         "lol": 60,
-        "me": 2a0,
+        "me": 20,
         "haha": 60,
         "jaja": 40,
         "jajaja": 50,
@@ -282,7 +281,7 @@ tags =
         "idk": 60
     },
 
-    ":rage:": # angry
+    ":rage:":  # angry
     {
         "mad": 80,
         "angry": 70,
@@ -295,7 +294,7 @@ tags =
         "ughh": 40
     },
 
-    ":triumph:": # fiesty
+    ":triumph:":  # fiesty
     {
         "mad": 40,
         "angry": 40,
@@ -304,7 +303,7 @@ tags =
         "jeez": 80
     },
 
-    "disappointed_relieved": # cry
+    "disappointed_relieved":  # cry
     {
         "sad": 80,
         "aww": 50,
@@ -316,7 +315,7 @@ tags =
         "blue": 30
     },
 
-    ":sob:": # tears down face
+    ":sob:":  # tears down face
     {
         "dang": 60,
         "awww": 40,
@@ -325,7 +324,7 @@ tags =
         "daaang": 70,
     },
 
-    ":scream:": # scream
+    ":scream:":  # scream
     {
         "scared": 80,
         "fear": 80,
@@ -340,7 +339,7 @@ tags =
         "screamed": 80
     },
 
-    ":dizzy_face:": # dead
+    ":dizzy_face:":  # dead
     {
         "dead": 100,
         "dying": 80,
@@ -351,7 +350,7 @@ tags =
         "killed": 60
     },
 
-    ":flushed:": # embarrassed
+    ":flushed:":  # embarrassed
     {
         "embarrassed": 90,
         "mb": 50,
@@ -365,7 +364,7 @@ tags =
         "why": 10
     },
 
-    "smile_cat": # cat
+    "smile_cat":  # cat
     {
         "cat": 100,
         "kitten": 90,
@@ -376,7 +375,7 @@ tags =
         "mew": 80
     },
 
-    ":no_good:": # girl x arms
+    ":no_good:":  # girl x arms
     {
         "no": 80,
         "nope": 70,
@@ -389,7 +388,7 @@ tags =
         "girl": 50
     },
 
-    ":ok_woman:": # girl o arms
+    ":ok_woman:":  # girl o arms
     {
         "ok": 70,
         "o": 60,
@@ -399,7 +398,7 @@ tags =
         "girl": 50
     },
 
-    ":see_no_evil:": # see no evil
+    ":see_no_evil:":  # see no evil
     {
         "see": 40,
         "saw": 40,
@@ -407,7 +406,7 @@ tags =
         "monkey": 40
     },
 
-    ":hear_no_evil:": # hear no evil
+    ":hear_no_evil:":  # hear no evil
     {
         "hear": 40,
         "heard": 40,
@@ -415,7 +414,7 @@ tags =
         "monkey": 30
     },
 
-    ":speak_no_evil:": # speak no evil
+    ":speak_no_evil:":  # speak no evil
     {
         "speak": 40,
         "said": 40,
@@ -427,7 +426,7 @@ tags =
         "things": 40
     },
 
-    ":raising_hand:": # girl hand raised
+    ":raising_hand:":  # girl hand raised
     {
         "raise": 80,
         "hand": 80,
@@ -439,7 +438,7 @@ tags =
         "what": 40,
         "what's": 40,
         "who": 40,
-        "when": 40c
+        "when": 40,
         "why": 40,
         "why's": 40,
         "when's": 40,
@@ -448,7 +447,7 @@ tags =
         "where's": 40
     },
 
-    ":raised_hands:": # touchdown
+    ":raised_hands:":  # touchdown
     {
         "me": 80,
         "praise": 70,
@@ -462,7 +461,7 @@ tags =
         "thx": 60
     },
 
-    ":person_frowning:": # girl sheepish
+    ":person_frowning:":  # girl sheepish
     {
         "sheepish": 90,
         "sorry": 70,
@@ -471,7 +470,7 @@ tags =
         "messed": 50
     },
 
-    ":pray:": # prayer
+    ":pray:":  # prayer
     {
         "praise": 90,
         "pray": 90,
@@ -489,13 +488,13 @@ tags =
         "thx": 60
     },
 
-    ":scissors:": # scissors
+    ":scissors:":  # scissors
     {
         "scissors": 100,
         "cut": 70
     },
 
-    ":airplane:": # airplane
+    ":airplane:":  # airplane
     {
         "plane": 70,
         "airplane": 90,
@@ -504,14 +503,14 @@ tags =
         "jet": 60
     },
 
-    ":raised_hand:": # stop hand
+    ":raised_hand:":  # stop hand
     {
         "hand": 80,
         "pause": 70,
         "stop": 60
     },
 
-    ":v:": # hand peace sign
+    ":v:":  # hand peace sign
     {
         "hand": 40,
         "peace": 70,
@@ -522,13 +521,13 @@ tags =
         "goodbye": 70
     },
 
-    ":pencil2:": # pencil
+    ":pencil2:":  # pencil
     {
         "pencil": 100,
         "write": 50
     },
 
-    ":black_nib": # pen
+    ":black_nib":  # pen
     {
         "pen": 100,
         "quill": 70,
@@ -536,7 +535,7 @@ tags =
         "wrote": 50
     },
 
-    ":sparkles:": # sparkles
+    ":sparkles:":  # sparkles
     {
         "sparkle": 70,
         "sparkles": 70,
@@ -545,7 +544,7 @@ tags =
         "stars": 70
     },
 
-    ":snowflake:": # snowflake
+    ":snowflake:":  # snowflake
     {
         "snow": 90,
         "snowflake": 100,
@@ -554,14 +553,14 @@ tags =
         "inches": 20
     },
 
-    ":heart:": # heart
+    ":heart:":  # heart
     {
         "heart": 80,
         "love": 80,
         "ily": 70
     },
 
-    ":rocket:": # rocket ship
+    ":rocket:":  # rocket ship
     {
         "space": 60,
         "rocket": 60,
@@ -573,7 +572,7 @@ tags =
         "pikmin": 80
     },
 
-    ":train:": # train
+    ":train:":  # train
     {
         "train": 80,
         "ride": 50,
@@ -584,26 +583,26 @@ tags =
         "traincar": 80
     },
 
-    ":bus:": # bus
+    ":bus:":  # bus
     {
         "bus": 90,
         "stop": 50
     },
 
-    ":ambulance:": # ambulance
+    ":ambulance:":  # ambulance
     {
         "emergency": 80,
         "ER": 80,
         "ambulance": 90
     },
 
-    ":fire_engine:": # firetruck
+    ":fire_engine:":  # firetruck
     {
         "fire": 60,
         "firetruck": 60,
     },
 
-    ":police_car:": # cop car
+    ":police_car:":  # cop car
     {
         "cop": 80,
         "cops": 80,
@@ -613,7 +612,7 @@ tags =
         "flashing": 20
     },
 
-    ":blue_car:": # car
+    ":blue_car:":  # car
     {
         "car": 80,
         "auto": 40,
@@ -623,14 +622,14 @@ tags =
         "vroom": 100
     },
 
-    ":truck:": # moving truck
+    ":truck:":  # moving truck
     {
         "haul": 80,
         "transport": 70,
         "relocate": 60
     },
 
-    ":ship:": # boat
+    ":ship:":  # boat
     {
         "boat": 80,
         "ship": 70,
@@ -641,7 +640,7 @@ tags =
         "titantic": 70
     },
 
-    ":traffic_light:": # traffic light
+    ":traffic_light:":  # traffic light
     {
         "traffic": 90,
         "light": 30,
@@ -650,7 +649,7 @@ tags =
         "yellow": 30
     },
 
-    ":construction:": # road block
+    ":construction:":  # road block
     {
         "construction": 90,
         "block": 30,
@@ -660,12 +659,12 @@ tags =
         "road": 30
     },
 
-    ":no_entry_sign:": # do not sign
+    ":no_entry_sign:":  # do not sign
     {
         "no": 60
     },
 
-    ":bike:": # bicycle
+    ":bike:":  # bicycle
     {
         "bike": 90,
         "bicycle": 90,
@@ -673,7 +672,7 @@ tags =
         "pedal": 70
     },
 
-    ":walking:": # man walking
+    ":walking:":  # man walking
     {
         "walk": 90,
         "stroll": 70,
@@ -682,26 +681,26 @@ tags =
         "life": 60
     },
 
-    ":toilet:": # toilet
+    ":toilet:":  # toilet
     {
         "toilet": 80,
-        "bathroom": 80
+        "bathroom": 80,
         "butthurt": 40
     },
 
-    ":cool:": # cool square
+    ":cool:":  # cool square
     {
         "cool": 90,
         "coolio": 70
     },
 
-    ":ok:": # ok square
+    ":ok:":  # ok square
     {
         "ok": 70,
         "okay": 60
     },
 
-    ":us:": # american flag
+    ":us:":  # american flag
     {
         "murica": 100,
         "america": 80,
@@ -710,7 +709,7 @@ tags =
         "'murica": 100
     },
 
-    ":hourglass:": # hourglass
+    ":hourglass:":  # hourglass
     {
         "time": 60,
         "hourglass": 90,
@@ -721,7 +720,7 @@ tags =
         "now": 40
     },
 
-    ":alarm_clock:": # alarm clock
+    ":alarm_clock:":  # alarm clock
     {
         "time": 50,
         "alarm": 60,
@@ -729,7 +728,7 @@ tags =
         "early": 50
     },
 
-    ":sunny:": # sun
+    ":sunny:":  # sun
     {
         "sun": 80,
         "sunlight": 80,
@@ -739,14 +738,14 @@ tags =
         "sky": 80
     },
 
-    ":cloud:": # cloud
+    ":cloud:":  # cloud
     {
         "cloud": 80,
         "clouds": 80,
         "sky": 80
     },
 
-    ":phone:": # landline phone
+    ":phone:":  # landline phone
     {
         "phone": 60,
         "ring": 30,
@@ -754,52 +753,52 @@ tags =
         "call": 40
     },
 
-    ":umbrella:": # umbrella with rain
+    ":umbrella:":  # umbrella with rain
     {
         "rain": 70,
         "raindrops": 70,
         "umbrella": 80
     },
 
-    ":point_up:": # hand pointing up
+    ":point_up:":  # hand pointing up
     {
         "up": 80,
         "above": 80
     },
 
-    ":hotsprings:": # warm wavy pattern
+    ":hotsprings:":  # warm wavy pattern
     {
         "bacon": 90,
         "sizzle": 40
     },
 
-    ":recycle:": #  recycling symbol
+    ":recycle:":  # recycling symbol
     {
         "recycle": 80,
         "green": 50
     },
 
-    ":zap:": # lightning bolt
+    ":zap:":  # lightning bolt
     {
         "flash": 70,
         "storm": 60,
         "lightning": 60
     },
 
-    ":church:": # church
+    ":church:":  # church
     {
         "faith": 70,
         "god": 40
     },
 
-    ":tent:": # tent
+    ":tent:":  # tent
     {
         "camp": 70,
         "camping": 70,
         "tent": 50
     },
 
-    ":city_sunset:": # city sunset
+    ":city_sunset:":  # city sunset
     {
         "city": 80,
         "sunset": 70,
@@ -807,7 +806,7 @@ tags =
         "buildings": 60
     },
 
-    ":rose:": # rose
+    ":rose:":  # rose
     {
         "rose": 80,
         "roses": 80,
@@ -816,7 +815,7 @@ tags =
         "thorns": 30
     },
 
-    ":four_leaf_clover:": # four-leaf clover
+    ":four_leaf_clover:":  # four-leaf clover
     {
         "clover": 100,
         "four": 40,
@@ -824,7 +823,7 @@ tags =
         "luck": 90
     },
 
-    ":fallen_leaf:": # brown leaves
+    ":fallen_leaf:":  # brown leaves
     {
         "fall": 40,
         "autumn": 70,
@@ -832,14 +831,14 @@ tags =
         "leaf": 50
     },
 
-    ":tangerine:": # tangerine
+    ":tangerine:":  # tangerine
     {
         "fruit": 70,
         "food": 40,
         "eat": 40
     },
 
-    ":pizza:": # pizza
+    ":pizza:":  # pizza
     {
         "pizza": 80,
         "delivery": 50,
@@ -847,7 +846,7 @@ tags =
         "eat": 50
     },
 
-    ":cookie:": # cookie
+    ":cookie:":  # cookie
     {
         "cookie": 80,
         "dessert": 50,
@@ -857,7 +856,7 @@ tags =
         "sugar": 30
     },
 
-    ":mushroom:": # mushroom
+    ":mushroom:":  # mushroom
     {
         "mushroom": 80,
         "mushrooms": 80,
@@ -866,7 +865,7 @@ tags =
         "tripping": 40
     },
 
-    ":beers:": # beers
+    ":beers:":  # beers
     {
         "cheers": 70,
         "beer": 70,
@@ -875,7 +874,7 @@ tags =
         "party": 50
     },
 
-    ":gift:": # gift
+    ":gift:":  # gift
     {
         "gift": 60,
         "present": 60,
@@ -883,13 +882,13 @@ tags =
         "box": 30
     },
 
-    ":santa:": # santa head
+    ":santa:":  # santa head
     {
-        "ho": 60
+        "ho": 60,
         "Christmas": 90
     },
 
-    ":tada:": # confetti
+    ":tada:":  # confetti
     {
         "party": 70,
         "birthday": 80,
@@ -898,7 +897,7 @@ tags =
         "fun": 60
     },
 
-    ":art:": # paint palette
+    ":art:":  # paint palette
     {
         "paint": 80,
         "draw": 50,
@@ -908,7 +907,7 @@ tags =
         "palette": 70
     },
 
-    ":performing_arts:": # theater masks
+    ":performing_arts:":  # theater masks
     {
         "art": 40,
         "arts": 40,
@@ -918,7 +917,7 @@ tags =
         "actress": 70
     },
 
-    ":video_game:": # video game controller
+    ":video_game:":  # video game controller
     {
         "game": 70,
         "video": 60,
@@ -926,7 +925,7 @@ tags =
         "play": 40
     },
 
-    ":musical_note:": # musical notes
+    ":musical_note:":  # musical notes
     {
         "music": 80,
         "song": 70,
@@ -947,7 +946,7 @@ tags =
         "woodwinds": 30
     },
 
-    ":basketball:": # basketball
+    ":basketball:":  # basketball
     {
         "basketball": 90,
         "ball": 80,
@@ -956,7 +955,7 @@ tags =
         "sport": 40
     },
 
-    ":runner:": # man running
+    ":runner:":  # man running
     {
         "running": 90,
         "man": 60,
@@ -969,7 +968,7 @@ tags =
         "sport": 40
     },
 
-    ":swimmer:": # man swimming
+    ":swimmer:":  # man swimming
     {
         "swim": 90,
         "swimming": 90,
@@ -980,14 +979,14 @@ tags =
         "sport": 40
     },
 
-    ":house:": # house
+    ":house:":  # house
     {
         "house": 90,
         "home": 80,
         "casa": 70
     },
 
-    ":snail:": # snail
+    ":snail:":  # snail
     {
         "snail": 90,
         "slow": 60,
@@ -995,21 +994,21 @@ tags =
         "forever": 70
     },
 
-    ":chicken:": # chicken
+    ":chicken:":  # chicken
     {
         "chicken": 90,
         "scared": 70,
         "bawk": 40
     },
 
-    ":octopus:": # octopus
+    ":octopus:":  # octopus
     {
         "squishy": 100,
         "octopus": 100,
         "ocean": 30
     },
 
-    ":honeybee:": # bumblebee
+    ":honeybee:":  # bumblebee
     {
         "bee": 90,
         "queen": 50,
@@ -1018,7 +1017,7 @@ tags =
         "honeycomb": 70
     },
 
-    ":fish:": # fish
+    ":fish:":  # fish
     {
         "fish": 90,
         "sea": 70,
@@ -1026,12 +1025,12 @@ tags =
         "water": 40
     },
 
-    ":baby_chick:": # baby chicken
+    ":baby_chick:":  # baby chicken
     {
         "chick": 70
     },
 
-    ":camel:": # camel
+    ":camel:":  # camel
     {
         "camel": 80,
         "hump": 90,
@@ -1040,27 +1039,27 @@ tags =
         "wednesday": 60
     },
 
-    ":tongue:": # tongue
+    ":tongue:":  # tongue
     {
         "tongue": 70,
         "lick": 70,
         "taste": 70
     },
 
-    ":point_left:": # hand pointing left
+    ":point_left:":  # hand pointing left
     {
         "meet": 80,
         "me": 70,
         "come": 80
     },
 
-    ":punch:": # fist
+    ":punch:":  # fist
     {
         "fist": 70,
         "fistbump": 80
     },
 
-    ":ok_hand:": # perfect hand
+    ":ok_hand:":  # perfect hand
     {
         "perfect": 80,
         "yes": 70,
@@ -1068,18 +1067,18 @@ tags =
         "that": 30
     },
 
-    ":thumbsup:": # thumbs up
+    ":thumbsup:":  # thumbs up
     {
         "thumbs": 70
     },
 
-    ":clap:": # hands clapping
+    ":clap:":  # hands clapping
     {
         "clap": 80,
         "hands": 60
     },
 
-    ":crown:": # crown
+    ":crown:":  # crown
     {
         "crown": 90,
         "king": 70,
@@ -1087,7 +1086,7 @@ tags =
         "me": 40
     },
 
-    ":information_desk_person:": # girl showing off
+    ":information_desk_person:":  # girl showing off
     {
         "me": 60,
         "flawless": 80,
@@ -1095,7 +1094,7 @@ tags =
         "pfft": 80
     },
 
-    ":massage:": # girl head
+    ":massage:":  # girl head
     {
         "mind": 70,
         "brain": 70,
@@ -1104,7 +1103,7 @@ tags =
         "thinking": 60
     },
 
-    ":ring:": # diamond ring
+    ":ring:":  # diamond ring
     {
         "ring": 80,
         "diamond": 80,
@@ -1112,12 +1111,12 @@ tags =
         "engaged": 40
     },
 
-    ":broken_heart:": # broken heart
+    ":broken_heart:":  # broken heart
     {
         "heartbreak": 100
     },
 
-    ":bulb:": # lightbulb
+    ":bulb:":  # lightbulb
     {
         "lightbulb": 100,
         "light": 50,
@@ -1125,13 +1124,13 @@ tags =
         "bright": 80
     },
 
-    ":bomb:": # bomb
+    ":bomb:":  # bomb
     {
         "bomb": 90,
         "boom": 70
     },
 
-    ":zzz:": # zzz
+    ":zzz:":  # zzz
     {
         "sleep": 80,
         "night": 70,
@@ -1139,13 +1138,13 @@ tags =
         "zzz": 100
     },
 
-    ":droplet:": # water droplet
+    ":droplet:":  # water droplet
     {
         "water": 90,
         "drop": 60
     },
 
-    ":dash:": # dust poof
+    ":dash:":  # dust poof
     {
         "gust": 60,
         "air": 50,
@@ -1153,7 +1152,7 @@ tags =
         "cloud": 40
     },
 
-    ":poop:": # pile of poo
+    ":poop:":  # pile of poo
     {
         "poo": 100,
         "poop": 90,
@@ -1165,7 +1164,7 @@ tags =
         "duece": 50
     },
 
-    ":muscle:": # right arm flex
+    ":muscle:":  # right arm flex
     {
         "strong": 80,
         "muscles": 100,
@@ -1175,12 +1174,12 @@ tags =
         "bicep": 100
     },
 
-    ":100:": # 100
+    ":100:":  # 100
     {
         "hundred": 100
     },
 
-    ":moneybag:": # sack of cash
+    ":moneybag:":  # sack of cash
     {
         "cash": 80,
         "money": 90,
@@ -1190,7 +1189,7 @@ tags =
         "diggity": 40
     },
 
-    ":notebook:": # notebook
+    ":notebook:":  # notebook
     {
         "notes": 80,
         "notebook": 80,
@@ -1199,7 +1198,7 @@ tags =
         "wrote": 60
     },
 
-    ":books:": # books
+    ":books:":  # books
     {
         "book": 80,
         "books": 90,
@@ -1210,13 +1209,13 @@ tags =
         "work": 60
     },
 
-    ":loudspeaker:": # p.a. system
+    ":loudspeaker:":  # p.a. system
     {
         "listen": 60,
         "me": 30
     },
 
-    ":iphone": # iPhone
+    ":iphone":  # iPhone
     {
         "iPhone": 80,
         "smartphone": 70,
@@ -1224,7 +1223,7 @@ tags =
         "call": 50
     },
 
-    ":camera:": # digital camera
+    ":camera:":  # digital camera
     {
         "camera": 90,
         "picture": 70,
@@ -1234,7 +1233,7 @@ tags =
         "snap": 70
     },
 
-    ":tv:": # TV
+    ":tv:":  # TV
     {
         "tv": 90,
         "television": 90,
@@ -1243,7 +1242,7 @@ tags =
         "channels": 70
     },
 
-    ":mag:": # magnifying glass
+    ":mag:":  # magnifying glass
     {
         "see": 60,
         "magnifying": 90,
@@ -1251,7 +1250,7 @@ tags =
         "identify": 70
     },
 
-    ":key:": # key
+    ":key:":  # key
     {
         "key": 90,
         "keys": 80,
@@ -1260,7 +1259,7 @@ tags =
         "car": 10
     },
 
-    ":lock:": # lock
+    ":lock:":  # lock
     {
         "lock": 90,
         "unlock": 60,
@@ -1269,23 +1268,23 @@ tags =
         "virgin": 100
     },
 
-    ":soon:": # soon
+    ":soon:":  # soon
     {
         "soon": 20
     },
 
-    ":fire:": # fire
+    ":fire:":  # fire
     {
         "fire": 100,
         "flame": 90,
         "hot": 90,
         "smoking": 80,
-        "smokin'", 80,
+        "smokin'": 80,
         "fiya": 80,
         "dang": 50
     },
 
-    ":wrench:": # wrench
+    ":wrench:":  # wrench
     {
         "wrench": 100,
         "tool": 90,
@@ -1298,14 +1297,14 @@ tags =
         "assemble": 20
     },
 
-    ":crystal_ball:": # crystal ball
+    ":crystal_ball:":  # crystal ball
     {
         "future": 70,
         "crystal": 80,
         "ball": 40
     },
 
-    ":sunglasses:": # sunglasses smiley
+    ":sunglasses:":  # sunglasses smiley
     {
         "cool": 70,
         "chill": 90,
@@ -1318,7 +1317,7 @@ tags =
         "summer": 60
     },
 
-    ":confused:": # slanted frown
+    ":confused:":  # slanted frown
     {
         "difficult": 40,
         "uncomfortable": 60,
@@ -1326,7 +1325,7 @@ tags =
         "weird": 50
     },
 
-    ":no_mouth:": # no mouth face
+    ":no_mouth:":  # no mouth face
     {
         "wut": 100,
         "wtf": 40,
@@ -1334,7 +1333,7 @@ tags =
         "uhhhh": 80
     },
 
-    ":tractor:": # tractor
+    ":tractor:":  # tractor
     {
         "tractor": 100,
         "farm": 90,
@@ -1342,34 +1341,34 @@ tags =
         "corn": 60
     },
 
-    ":shower:": # showerhead
+    ":shower:":  # showerhead
     {
         "shower": 90,
         "rinse": 50
     },
 
-    ":earth_americas:": # earth
+    ":earth_americas:":  # earth
     {
         "earth": 80,
         "planet": 60,
-        "globe": 70
+        "globe": 70,
         "world": 70
     },
 
-    ":rooster:": # chicken
+    ":rooster:":  # chicken
     {
         "chicken": 100,
         "scared": 80,
         "dinosaur": 20
     },
 
-    ":mute:": # line through speaker
+    ":mute:":  # line through speaker
     {
         "silent": 90,
         "mute": 90
     },
 
-    ":telescope:": # telescope
+    ":telescope:":  # telescope
     {
         "telescope": 100,
         "outer": 40,
@@ -1378,7 +1377,7 @@ tags =
         "stargazing": 80
     },
 
-    ":microscope:": # microscope
+    ":microscope:":  # microscope
     {
         "science": 80,
         "microscope": 100,

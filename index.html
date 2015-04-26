@@ -8,20 +8,20 @@
 		<title> Emojify!</title>
 	</head>
 
-	<body>
-		<div id="header">
-			<h1 id="title"> :grin:</h1>
-			
-		</div>
+    <body>
+        <div id="header">
+            <h1 id="title"> :grin:</h1>
+            
+        </div>
 
-		<div id="input-output">
-			<form id="input-form" onsubmit="emojifyText()">
-				<textarea id="inputField" rows="4" cols="50"></textarea>
-				<br>
-				<input id="numberInput" type="number" min="0">
-				<br>
-				<input type="submit" value="Submit">
-			</form>
+        <div id="input-output">
+            <form id="input-form" onsubmit="emojifyText()">
+                <textarea id="inputField" rows="4" cols="50"></textarea>
+                <br>
+                <input id="numberInput" type="number" min="0">
+                <br>
+                <input type="submit" value="Submit">
+            </form>
 
 			<textarea readonly="true" id="outputField" rows="4" cols="50"></textarea>
 		</div>
@@ -36,24 +36,24 @@
 	emoji.img_path = "https://github.com/github/gemoji/tree/master/images/emoji/unicode"
 	rawTitle.textContent = emojiTitle;*/
 
-	function emojifyText(){
-		var inputString = document.getElementById('inputField').value;
-		var threshold = document.getElementById('numberInput').value;
-		$.ajax({
-			type: 'GET',
-			url: '/emojify',
-			data: {
-				input: inputString,
-				threshold: threshold
-			},
-			success: function(emojis){
-				callback(inputString, emojis);
-			},
-			error: function(){
-				callback(inputString, '');
-			}
-		});
-	}
+    function emojifyText(){
+        var inputString = document.getElementById('inputField').value;
+        var threshold = document.getElementById('numberInput').value;
+        $.ajax({
+            type: 'GET',
+            url: '/emojify',
+            data: {
+                input: inputString,
+                threshold: threshold
+            },
+            success: function(emojis){
+                callback(inputString, emojis);
+            },
+            error: function(){
+                callback(inputString, '');
+            }
+        });
+    }
 
 	function callback(inputString, colonString){
 		var output = emoji.replace_colons(colonString);

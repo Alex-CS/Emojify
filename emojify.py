@@ -8,6 +8,7 @@
 import re
 from heapq import heappush
 
+from flask import request
 from flask.ext.restful import Resource
 
 from emoji_tags import tags
@@ -34,10 +35,13 @@ class EmojiTranslation(Resource):
     emoji_to_keywords = tags
     keywords_to_emoji = flip_mapping(tags)
 
-    def get(self, input, threshold):
+    def post(self):
         """ Return up to threshold emoji for the input.
         """
-        words = sanitize(input).split()
+        params = {x: request.form[x] for x in request.form}
+
+        threshold = int(params['threshold'])
+        words = sanitize(params['input']).split()
         related_emojis = {}
 
         # Find all the emojis that apply to any of the words

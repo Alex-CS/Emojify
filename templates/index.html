@@ -16,14 +16,14 @@
         </div>
 
         <div id="input-output">
-            <form id="input-form" onsubmit="emojifyText()">
+            <form id="input-form">
                 <label for="inputField">Enter your text here:</label>
                 <textarea id="inputField" rows="4" cols="43"></textarea>
                 <br>
                 <label title="The maximum number of Emoji to add." for="numberInput">Emoji threshold:</label>
                 <br>
                 <input id="numberInput" type="number" min="0" value="0">
-                <input id="submitButton" type="submit" value="Submit">
+                <input id="submitButton" type="button" value="Submit" onclick="emojifyText()">
             </form>
             <br>
             <label for="outputField">Your emojified text will appear here:</label>
@@ -41,7 +41,7 @@
         var inputString = document.getElementById('inputField').value;
         var threshold = document.getElementById('numberInput').value;
         $.ajax({
-            type: 'GET',
+            type: 'POST',
             url: '/emojify',
             data: {
                 input: inputString,

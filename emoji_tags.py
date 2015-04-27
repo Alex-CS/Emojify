@@ -303,7 +303,7 @@ tags = {
         "jeez": 80
     },
 
-    "disappointed_relieved":  # cry
+    ":disappointed_relieved:":  # cry
     {
         "sad": 80,
         "aww": 50,
@@ -364,7 +364,7 @@ tags = {
         "why": 10
     },
 
-    "smile_cat":  # cat
+    ":smile_cat:":  # cat
     {
         "cat": 100,
         "kitten": 90,
@@ -527,7 +527,7 @@ tags = {
         "write": 50
     },
 
-    ":black_nib":  # pen
+    ":black_nib:":  # pen
     {
         "pen": 100,
         "quill": 70,
@@ -1215,7 +1215,7 @@ tags = {
         "me": 30
     },
 
-    ":iphone":  # iPhone
+    ":iphone:":  # iPhone
     {
         "iPhone": 80,
         "smartphone": 70,
